@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a8d320629ea5414c82d2ef933e56939, type: 3}
+  m_Name: Level3
+  m_EditorClassIdentifier: 
+  levelName: Level3
+  wavesToWin: 12
+  startingResources: 300
+  startingLives: 15
+  initialSpawnPosition: {x: -19, y: 1}
+  waves:
+  - {fileID: 11400000, guid: f766c59883ca5cc44b3eaab5f8bb231f, type: 2}
+  - {fileID: 11400000, guid: 4e74e5bf35cdc7147979c585b2c55053, type: 2}
+  - {fileID: 11400000, guid: 388ee7a7697266a4fb5da77ae508bad5, type: 2}
+  - {fileID: 11400000, guid: 49386aba0a28e7c43bf831d71ad8cdb2, type: 2}
+  - {fileID: 11400000, guid: e1e1ed3668c9d494b8894b1972151838, type: 2}
+  - {fileID: 11400000, guid: ab12c2383577d24459ba69cf1c22d749, type: 2}
+  - {fileID: 11400000, guid: 56173168a4c34c24e8d64a85f51c8c51, type: 2}
+  - {fileID: 11400000, guid: 3e676d6723443c141b74345ccce8ca97, type: 2}
+  - {fileID: 11400000, guid: 8290a3556004b22479064677131eab66, type: 2}
+  - {fileID: 11400000, guid: 48a795b03422bf94e90ee9e375001d17, type: 2}
+  - {fileID: 11400000, guid: 172d55546ce453c47bcdc0744eb80674, type: 2}
+  - {fileID: 11400000, guid: 807ece75e2587a349a620e9787c77027, type: 2}

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a8d320629ea5414c82d2ef933e56939, type: 3}
+  m_Name: EndlessMode
+  m_EditorClassIdentifier: 
+  levelName: EndlessMode
+  wavesToWin: 999
+  startingResources: 600
+  startingLives: 30
+  initialSpawnPosition: {x: 5, y: 12}
+  waves:
+  - {fileID: 11400000, guid: 56173168a4c34c24e8d64a85f51c8c51, type: 2}
+  - {fileID: 11400000, guid: 3e676d6723443c141b74345ccce8ca97, type: 2}
+  - {fileID: 11400000, guid: 8290a3556004b22479064677131eab66, type: 2}
+  - {fileID: 11400000, guid: eac7efe46480efc4ea88d196593cb7b6, type: 2}
+  - {fileID: 11400000, guid: 48a795b03422bf94e90ee9e375001d17, type: 2}
+  - {fileID: 11400000, guid: 172d55546ce453c47bcdc0744eb80674, type: 2}
+  - {fileID: 11400000, guid: 807ece75e2587a349a620e9787c77027, type: 2}
+  - {fileID: 11400000, guid: c16b886ee06d62d4bbbf00e602a0b93d, type: 2}
+  - {fileID: 11400000, guid: 5a838b31caa337b4490f230969c32d1c, type: 2}
+  - {fileID: 11400000, guid: d46098d25933a844f834ec6225b56494, type: 2}
+  - {fileID: 11400000, guid: f936d0c02c05986429d2ba9ba783e0ce, type: 2}
+  - {fileID: 11400000, guid: 8be267318d5a6d04897b9374070229f7, type: 2}
+  - {fileID: 11400000, guid: 200d7701c4913fa48a0912ccf3957715, type: 2}
+  - {fileID: 11400000, guid: da653f2d96b9ce34eab03aed783538a7, type: 2}
+  - {fileID: 11400000, guid: b95558a05c9b2e94096430adffa0274f, type: 2}
+  - {fileID: 11400000, guid: e5cda3c652f288644afcd4469fde2569, type: 2}
+  - {fileID: 11400000, guid: a9042f59c97462c40b493807b6a62828, type: 2}
+  - {fileID: 11400000, guid: 5ff8df737bc9e2442a8146548e35e18b, type: 2}
+  - {fileID: 11400000, guid: 40316b31eca309b438bbcb8ff4806643, type: 2}
+  - {fileID: 11400000, guid: 735507ef908b3994abe58c5bb47dde31, type: 2}

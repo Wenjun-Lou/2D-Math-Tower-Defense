@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Orc_Warlord_Override
+  m_Controller: {fileID: 9100000, guid: 8344e1b63b376344684819206b0602df, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 8a66e14dc6164cc47bf7425ee453cbef, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 362e935fbdce6a14aad76405f7fc6d3e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b27a79863ada0bd40800cf5163dabe10, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dbaccaf968493b3488e1cc9577d2a033, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a478a8651189ed04f8d7d57c53b26b8f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fa1ae46b2a40ba148a1c01514b95939c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: aa327e61acc97674dbbf18d83f62f32a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1aa0f922ce155024ebec1555eba825f6, type: 2}
